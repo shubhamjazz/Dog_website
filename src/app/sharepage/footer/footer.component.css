@@ -1,0 +1,33 @@
+.vs_footer 
+{
+    background-color: #005F7A;
+    padding-top: 50px;
+    position: relative;
+}
+
+.links .nav-item .nav-link
+{
+    color: white;
+    text-decoration: none;
+}
+
+.vs_h4
+{
+    color: white;
+    font-family: Teko-SemiBold;
+}
+
+.vs_flex .mb-0
+{
+    color: aliceblue;
+    text-decoration: none;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+  }
+.vs_opening_h
+{
+    color: aliceblue;
+}  

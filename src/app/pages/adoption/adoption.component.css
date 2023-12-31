@@ -1,0 +1,12 @@
+.h2, h2 {
+    font-size: 38px;
+    font-family: 'Poppins-SemiBold';
+    color: red;
+}
+
+.p, p
+{
+    color: black;
+    font-size: 22px;
+    font-family: 'Poppins-Regular';
+}

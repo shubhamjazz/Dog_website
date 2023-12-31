@@ -1,0 +1,14 @@
+.h2, h2 {
+    font-size: 42px;
+    font-weight: bold;
+    font-family: 'Teko-SemiBold';
+    letter-spacing: -0.077em;
+    color: brown;
+}
+
+.p, p
+{
+    color: #5c5353;
+    font-size: 22px;
+    font-family: 'Poppins-Regular';
+}

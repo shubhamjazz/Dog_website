@@ -1,0 +1,55 @@
+.map-container{
+    overflow:hidden;
+    padding-bottom:56.25%;
+    position:relative;
+    height:0;
+  }
+  .map-container iframe{
+    left:0;
+    top:0;
+    height:100%;
+    width:100%;
+    position:absolute;
+  }
+
+.mb-4 .vs_ff_sb.mb-4{
+  font-weight: bold;
+  font-size: 18px;
+}
+
+.mb-4 .vs_ff_sb{
+  font-weight: bold;
+  font-size: 18px;
+}
+
+.mb-0.vs_fs_14{
+  font-weight: bold;
+  font-size: 22px;
+}
+
+.vs_contact_form .mb-4 .form-control.vs_fs_14{
+  border-width: 2px;
+}
+
+.bgcolor{
+  background-color: rgb(210, 235, 235);
+}
+
+.h2, h2 {
+  font-size: 30px;
+  font-weight: bold;
+  color: brown;
+}
+
+.button:hover{
+  background-color: brown;
+}
+.button:hover a {
+  color: #fff !important;
+}
+.button{
+  background-color: yellow;
+  font-size: 18px;
+  padding: 15px 30px;
+  display: block;
+}
